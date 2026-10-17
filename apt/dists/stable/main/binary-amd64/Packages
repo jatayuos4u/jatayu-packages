@@ -1,0 +1,15 @@
+Package: jatayu-media-player
+Architecture: amd64
+Depends: libmpv2 | libmpv1, ffmpeg, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-dialogs, qml6-module-qtcore, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libmpv2 (>= 0.29), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.2.0), libqt6opengl6 (>= 6.1.2), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.6.0), libstdc++6 (>= 5.2)
+Priority: optional
+Section: video
+Filename: pool/main/j/jatayu-media-player/jatayu-media-player_1.0.0-1_amd64.deb
+Size: 202444
+SHA256: 9e5b01b58e6e0369821637412e57e5634c86a02ecde8b8fbd3f055b0959db89b
+SHA1: c4380f890da3a72de7df82716e77df744d030826
+MD5sum: 82e5ac0fd7e6ad3b3dcdab4026fab718
+Description: Privacy-focused Qt/libmpv media player for Linux
+Maintainer: https://github.com/jatayuos4u/jatayu-media-player/issues
+Version: 1.0.0-1
+Installed-Size: 727
+

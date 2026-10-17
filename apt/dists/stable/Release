@@ -1,0 +1,20 @@
+Origin: Jatayu Media Player Project
+Label: Jatayu Media Player
+Suite: stable
+Codename: stable
+Date: Fri, 16 Oct 2026 17:12:11 UTC
+Architectures: amd64
+Components: main
+Description: Jatayu Media Player signed Debian packages
+MD5Sum:
+ e8adaee3f9c0185fb1b259fbc0fd70f6 871 main/binary-amd64/Packages
+ 3482a29ef137cdcf242628a3806c0705 508 main/binary-amd64/Packages.gz
+ 9e8cf4336b420cfd14f217a5022b8cd4 171 main/binary-amd64/Release
+SHA1:
+ 08df40e60da7b11109d36d9d88bdbc154d9ef221 871 main/binary-amd64/Packages
+ b8a99a43fe7ec474119d9186c2cee945e4b10754 508 main/binary-amd64/Packages.gz
+ c5a270e3d4ed413eca28d59c317e1d0d0e87ba14 171 main/binary-amd64/Release
+SHA256:
+ bcf611db2fb604b7db7daa8430c786f578207466cba3d7caca719bf60e6f6df4 871 main/binary-amd64/Packages
+ bcb43141a2ff7becf2431f190dfddfbe10bf44cd3ee1f5b99ea3c136c1c66e6e 508 main/binary-amd64/Packages.gz
+ 2e58a0d297de9041d593abe5c208cbbbfa406a49aabbb6808a31ad3dede7807c 171 main/binary-amd64/Release

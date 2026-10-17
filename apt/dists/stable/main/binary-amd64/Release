@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Jatayu Media Player Project
+Label: Jatayu Media Player
+Architecture: amd64
+Description: Jatayu Media Player signed Debian packages
