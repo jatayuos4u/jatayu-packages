@@ -5,35 +5,35 @@ Origin: Jatayu Media Player Project
 Label: Jatayu Media Player
 Suite: stable
 Codename: stable
-Date: Sat, 17 Oct 2026 06:56:17 UTC
+Date: Sun, 18 Oct 2026 15:37:10 UTC
 Architectures: amd64
 Components: main
 Description: Jatayu Media Player signed Debian packages
 MD5Sum:
- 48575c81d544ad45aa7decbfaefc583b 871 main/binary-amd64/Packages
- 95c8eba2de7f6adab46077bd562e0bae 509 main/binary-amd64/Packages.gz
+ 98b4645685ee2d729f8a37596034f561 871 main/binary-amd64/Packages
+ 06e6c58d92c89d57200a2ab6fb511c42 507 main/binary-amd64/Packages.gz
  9e8cf4336b420cfd14f217a5022b8cd4 171 main/binary-amd64/Release
 SHA1:
- 0042c58e1374be4237f25caa833378430862bde9 871 main/binary-amd64/Packages
- e2a30f9eef387b8e123b9d4ad38e450b56a110d9 509 main/binary-amd64/Packages.gz
+ 17954c6ce5125ab031afb25fd7f3122f01b80574 871 main/binary-amd64/Packages
+ 9cd5b296ea36157ab01ba61506c3d21008e12c92 507 main/binary-amd64/Packages.gz
  c5a270e3d4ed413eca28d59c317e1d0d0e87ba14 171 main/binary-amd64/Release
 SHA256:
- ebeec61c5d65fbe845e1fe5e32c1d9503d3504fcfa7a54c94b060fb0db856fdb 871 main/binary-amd64/Packages
- 1da0443bf06699e28555fca125c1b6c53c07e2584da145eb1f670e99fb769995 509 main/binary-amd64/Packages.gz
+ efbe861ecfea29a7c28a22370292676a37163dc55149b1c2aa50b33e4cfa0268 871 main/binary-amd64/Packages
+ 1baf9038fa68331fa1a3b26a432874423f0af37171a93da36d8dab8be7e84683 507 main/binary-amd64/Packages.gz
  2e58a0d297de9041d593abe5c208cbbbfa406a49aabbb6808a31ad3dede7807c 171 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE/K0XOwBSIvjcsWxpEALXuizY6wkFAmrTHBoACgkQEALXuizY
-6wkSnw/9F7C00bFdYIolAs/6ipHlLylcaKdvJskemSXZqihAW3Xf7nOTmyO5E1Nx
-XR91/bOn3QHYkJGE2D6/vYgQaPTeHw2vFg37bn4X/JTUrw4Q1ydNuKNV30DDBjO7
-+FWb6D93O1RGrZLYqrqkrJf+26NI8tdd1ppVjaDsioUS06W6qLzhXNOGOZHzNyIM
-Fhc4gVPGwWUiTWGWmSNFBxlGFUGrydiTRKZlbPtZUPdIr7rVPPhgBgUYmz5i2Psi
-bEJot1nIdOxTe8o503C2W/5u0pnw/aev5HLe6ZrRjGclXChqToyMh7v6r6wvbl0n
-DZRxLIFXijx4N8hjOvERXNkPSomMTUeGlsysHHdu2cHOKioQrhToB7Pf/phiLefF
-EryfHGgHiArsQAd94DJaSVBk0Vo+xHlwCGDBbukVj91GM4vlbReJ0bujVwgYAen7
-ET/gZisGiejhJe1IRiMkg5KmDlFQVdy8GLkA6oRGaCLAAN8khi9fyfHV2hBttIQS
-qgul0sKZSWxJkCsscob0mOFvK/FaOOh8dHfsXw1ERvS0eCnF8jMXBdqBhXyct3Bx
-BnEVsOCLyaOcwoUFSgW30PUWVTUU8UJLb9RLsVkxXg8HW5EhS9p/yApoRvSbqqOn
-UdqUz2/bpRVgTR67WgjALdRrKoBBq/M3UMxGOnFXSw6wEIA3hVo=
-=CqD+
+iQIzBAEBCgAdFiEE/K0XOwBSIvjcsWxpEALXuizY6wkFAmrU564ACgkQEALXuizY
+6wlIiRAAnucsQVnlnBs1rgfoWbsQX6QVKWr/nAt1AfTT+IbZNKyNjxf5A73Jd6Md
+vUU0ic814WFuGaxSoAEskwO7VycL+1U5DPt64gfsBnToGb59J1S/xWxRdfTRd0rd
+eWS4c9iQnupVbF4umQtlW1ot/1iyRIL+pc2mm+XJ10/KnMHnBmtjMQEXPC9JZXe2
+H2Vr0Pksn6oDKzxXvwoykF9VkbkVr4+UgOQcJE/T6UMyOQogRBnKNruIZUCO1eu8
+o4zlodnN2bE5j9I0A68iET74qNJADwLE/dnqoRYCS76aqjCI+rEKFjTYa+T0Wsju
+6Ay9hH+e65X9muiG/kJF1L37T9OuOVZqx13cQgsk6Nti+VAMVgukASp7DFEjPIs6
+xQ1YmFcdWQtgHeAaETwC5diWzvwcW7b+CoYtClqbrwAloP/a52aDezXlSK4I+Jvn
+aFNFJosSI4fXlxFlkigaLWIE0ySCzDD82PWk6Rer2eG5f/xthjqzBTFggX2GA1YF
+FDtrrzWeagW89xuVJ2kSzXF5oULAyztUCjBNXdbrHGhFQTqEug5/Q5113PRck2FS
+k93igRNdy/qnmaXPIyOruG7JFk9jAipjatAAOH49n91P3JAc3SGhHYxiCJlpS9cP
+eaFVj4xdlglMeDRWRuoWXF/Yfzpacf75DyzZImgCgevSV/PyaQI=
+=yHDS
 -----END PGP SIGNATURE-----
